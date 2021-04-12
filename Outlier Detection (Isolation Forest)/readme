@@ -1,2 +1,7 @@
 Keep AIP data.csv into the same folder as the main ipynb file. 
 Link for the AIP Data is: https://drive.google.com/file/d/170-5TMUoO9i244u2EN1GE0xDtGpnRF6K/view?usp=sharing
+
+I have generated two outliers labeled spreadsheet 
+1. Percentage of outlier = 5% : OutlierPoints_Processed_Month_C_0.05.xlsx
+2. Percentage of outlier = 10% : OutlierPoints_Processed_Month_C_0.1.xlsx
+Also, another spreadsheet (Correlation Matrix.xlsx) generated for visualizing correlations between econ indices ad farming production data.
